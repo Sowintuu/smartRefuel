@@ -1,0 +1,1 @@
+"C:\Python38x86\python.exe" Main.py
